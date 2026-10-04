@@ -1,1 +1,1 @@
-"""FastAPI application for Chishiki."""
+"""Chishiki backend package."""
